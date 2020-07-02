@@ -16,6 +16,6 @@ using a set of different common fairness definitions.
 
 ## Requirements
  1. Install the fairness library: pip3 install fairness
- 2. Modify the file "ProcessedData.py" in the fairness library (/usr/local/lib/python3.6/dist-packages/fairness/data/objects/ProcessedData.py).
+ 2. Modify the file "ProcessedData.py" in the fairness library (/usr/local/lib/python3.6/dist-packages/fairness/data/objects/ProcessedData.py) with the file in this github repository.
     It requires for reproductibility results to have 80% for training and 20% for test set.
     
