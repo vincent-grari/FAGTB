@@ -16,7 +16,7 @@ of the neural network directly in the gradient tree boosting. We empirically ass
 on 4 popular data sets and compare against state-of-the-art algorithms. The results show that 
 our algorithm achieves a higher accuracy while obtaining the same level of fairness, as measured
 using a set of different common fairness definitions.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://https://github.com/vincent-grari/FAGTB/blob/master/FAGTB.png?raw=true)
 
 ## Requirements
  1. Install the fairness library: pip3 install fairness
