@@ -1,5 +1,8 @@
 # Fair Adversarial Gradient Tree Boosting
 
+This work has been accepted as an oral presentation at ICDM 2019.
+https://arxiv.org/abs/1911.05369
+
 Fair classification has become an important topic in machine learning research.
 While most bias mitigation strategies focus on neural networks, we noticed a lack of work
 on fair classifiers based on decision trees even though they have proven very efficient.
