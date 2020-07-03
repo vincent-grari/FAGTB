@@ -1,6 +1,6 @@
 # Fair Adversarial Gradient Tree Boosting
 
-This work has been accepted as an oral presentation at ICDM 2019.
+This work has been accepted as an oral presentation at IEEE ICDM 2019.
 https://arxiv.org/abs/1911.05369
 
 Fair classification has become an important topic in machine learning research.
